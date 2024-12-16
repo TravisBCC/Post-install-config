@@ -31,7 +31,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-![agents 3](https://github.com/user-attachments/assets/54c841a3-b624-4425-93fc-979e966e8c0c)
+(https://github.com/user-attachments/assets/54c841a3-b624-4425-93fc-979e966e8c0c)
 
 
  />
