@@ -31,8 +31,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https:![configure roles](https://github.com/user-attachments/assets/9473a4b7-72d6-4476-aff6-419d4dc62222)
-//i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img file:///C:/Users/travi/Downloads/configure%20roles.png/>
 
  />
 </p>
