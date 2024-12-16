@@ -41,8 +41,7 @@ So the first thing I did was make different roles and giving each role different
 <br />
 
 ![Agents 1](https://github.com/user-attachments/assets/a06f04a3-12e4-4de6-ba0e-1b58d26dc3f8)
-
-[agents 2](https://github.com/user-attachments/assets/10abc5f3-8d75-464e-9f9e-402214223516)
+![agents 2](https://github.com/user-attachments/assets/10abc5f3-8d75-464e-9f9e-402214223516)
 /p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
