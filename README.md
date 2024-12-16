@@ -31,7 +31,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
                                                                         
-![step 1](https://github.com/user-attachments/assets/f38a7db4-7797-4b30-92ae-eecb244ac358)
+!![configure roles](https://github.com/user-attachments/assets/f92ca4fd-1f48-4ba1-bd51-cccd820dea39)
 
 
  />
