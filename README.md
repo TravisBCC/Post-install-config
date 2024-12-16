@@ -30,8 +30,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-<p>
-(https://github.com/user-attachments/assets/54c841a3-b624-4425-93fc-979e966e8c0c)
+<p                                                                           
+![step 1](https://github.com/user-attachments/assets/f38a7db4-7797-4b30-92ae-eecb244ac358)
 
 
  />
